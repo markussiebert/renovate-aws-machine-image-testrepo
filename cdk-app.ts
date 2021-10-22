@@ -8,6 +8,6 @@ const myConfigObject = {
 /**
  * Only ami, no ami name mentioned
  * amiFilter=[{"Name":"owner-id","Values":["602401143452"]},{"Name":"name","Values":["amazon-eks-node-1.20-*"]}]
- * currentImageName=unknown
+ * currentImageName=amazon-eks-node-1.20-v20210628
  */
 const my_ami2 = 'ami-0083e9407e275acf2';
