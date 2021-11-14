@@ -8,6 +8,6 @@
       ],
       "datasourceTemplate": "aws-machine-image",
       "versioningTemplate": "aws-machine-image"
-    },
+    }
   ]
 }
