@@ -4,7 +4,7 @@
     {
       "fileMatch": [".*"],
       "matchStrings": [
-        "._amiFilter=(?<lookupName>._?)\n(._currentImageName=(?<currentDigest>._?)\n)?(._\n)?._?(?<depName>[a-zA-Z0-9-_:]_)[ ]_?[:|=][ ]_?[\"|']?(?<currentValue>ami-[a-z0-9]{17})[\"|']?._",
+        "._amiFilter=(?<lookupName>._?)\n(._currentImageName=(?<currentDigest>._?)\n)?(._\n)?._?(?<depName>[a-zA-Z0-9-_:]_)[ ]_?[:|=][ ]_?[\"|']?(?<currentValue>ami-[a-z0-9]{17})[\"|']?._"
       ],
       "datasourceTemplate": "aws-machine-image",
       "versioningTemplate": "aws-machine-image",
